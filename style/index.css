@@ -83,7 +83,10 @@ p {
     color:black;
 }
 
-
+.headerImg{
+    display: flex;
+    justify-content: center;
+}
 /* End of header styling */
 
 .container {
