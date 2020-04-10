@@ -75,14 +75,15 @@ header{
     display:flex;
     
     flex-wrap: wrap;
-
+   
 }
-.navMenu{
+header .navMenu{
     
+    width:100%;
     display:flex;
     justify-content: space-between;
     align-items: center;
-}
+} 
 .items{
     font-size:2rem;
     text-decoration: none;
