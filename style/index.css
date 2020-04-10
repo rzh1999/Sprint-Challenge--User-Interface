@@ -56,7 +56,6 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
     font-size: 62.5%;
-    margin: 1% 5% 1% 5%;
 }
 
 h1, h2, h3, h4, h5 {
@@ -70,6 +69,9 @@ p {
 }
 
 /* Header styling */
+header{
+    margin: 1% 29% 1% 29%;
+}
 .navMenu{
     
     display:flex;
