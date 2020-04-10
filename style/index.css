@@ -241,3 +241,27 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+@media(max-width:500px){
+    
+    .navMenu{
+     flex-direction: column;
+     border:2px solid red;
+    }
+    .items{
+        margin:0% 0% 1% 0%;
+        padding: 2% 20% 0% 20%;
+        border: 2px solid darkgray;
+        border-radius: 8px;
+        background-color: lightgray;
+        color:darkgray;
+       
+    }
+    .headerImg img{ 
+        width:100%;
+        height:auto; 
+       border:2px solid red;
+    }
+    .text-container{
+        width:25%;
+    }
+}
